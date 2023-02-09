@@ -181,12 +181,14 @@ a {
   .menu {
     word-spacing: 2rem;
   }
+
   .menu a {
     color: rgba(0, 0, 0, 0.543);
     font-size: 1.2rem;
     text-decoration: none;
     padding-left: 0.7rem;
   }
+
   .forsideTekst {
     font-size: 2rem;
     padding-top: 7rem;
